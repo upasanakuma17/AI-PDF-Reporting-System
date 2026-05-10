@@ -1,0 +1,29 @@
+Sample Financial Report PDF
+This is a sample PDF created for testing your AI PDF Reporting System project. It contains normal text,
+tables, invoice data, and multiple sections.
+Invoice No
+Client
+Amount
+Date
+Status
+INV-1001
+ABC Pvt Ltd
+I12,500
+01-05-2026
+Paid
+INV-1002
+XYZ Tech
+I8,750
+03-05-2026
+Pending
+INV-1003
+Delta Corp
+I15,200
+06-05-2026
+Paid
+Report Summary:
+Total invoices processed: 3
+Total revenue generated: I36,450
+Pending payments: I8,750
+This section is useful for testing: PDF text extraction Table extraction CSV export AI JSON conversion
+Automated report generation

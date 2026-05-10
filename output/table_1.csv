@@ -1,0 +1,6 @@
+0,1,2
+Metric,Value,Status
+Documents Processed,1250,Completed
+Failed Files,12,Warning
+Accuracy,96.4%,Good
+Processing Time,3m 24s,Normal
