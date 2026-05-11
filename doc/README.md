@@ -129,4 +129,17 @@ It is suggested to use leptonica with built-in support for [zlib](https://zlib.n
 
 For the latest online version of the README.md see:
 
+
+## Screenshots
+
+### Dashboard Home
+![Dashboard](screenshots/dashboard_home.png)
+
+### AI Extraction
+![AI Extraction](screenshots/ai_extraction.png)
+
+### JSON Output
+![JSON Output](screenshots/json_output.png)
+
 <https://github.com/tesseract-ocr/tesseract/blob/main/README.md>
+
